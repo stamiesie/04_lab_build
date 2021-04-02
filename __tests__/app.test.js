@@ -44,7 +44,7 @@ describe('routes', () => {
           id: '2',
           title: 'bacon',
           ingredients: 'bacon stuff',
-          thumbnail: "fsdas"
+          thumbnail: null,
           })
       })
     })
@@ -57,7 +57,7 @@ describe('routes', () => {
           id: '1',
           title: 'bacon',
           ingredients: 'bacon stuff',
-          thumbnail: "fsdas"
+          thumbnail: null,
         })
       })
   })  
@@ -74,7 +74,7 @@ describe('routes', () => {
           id: '1',
           title: 'pasta',
           ingredients: 'bacon stuff',
-          thumbnail: "fsdas"
+          thumbnail: null,
         });
       });
   });
@@ -88,7 +88,7 @@ describe('routes', () => {
           id: '1',
           title: 'bacon',
           ingredients: 'bacon stuff',
-          thumbnail: "fsdas"
+          thumbnail: null,
       })
     })
   })
